@@ -1,0 +1,29 @@
+.incrementerContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    transition: .3s all;
+}
+
+.incrementerContainer .numbers {
+    width: 100px;
+}
+.incrementerContainer .numbers .number {
+    position: absolute;
+    left: 0;
+}
+
+.incrementerContainer .buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: .3s all;
+    position: absolute;
+    right: 0;
+}
+.incrementerContainer .buttons .button svg {
+    transition: .2s all;
+}
