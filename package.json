@@ -1,6 +1,6 @@
 {
   "name": "react-incrementer",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "React increment/decrement component",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -12,7 +12,12 @@
     "url": "git+https://github.com/7JUMPER7/react-incrementer.git"
   },
   "keywords": [
-    "Incrementor"
+    "Incrementor",
+    "React",
+    "Design",
+    "Component",
+    "Increase",
+    "Decrease"
   ],
   "author": "Arsenii Semenov",
   "license": "ISC",
